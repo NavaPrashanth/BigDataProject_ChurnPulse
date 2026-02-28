@@ -9,7 +9,7 @@ ChurnPulse is a comprehensive big data analytics project focused on addressing t
 - MachineLearningModels.ipynb: Jupyter notebook containing the machine learning models used for predicting customer churn.
 - DataWarehousing.ipynb: Notebook showcasing the data warehousing techniques, including the use of Amazon Redshift.
 - CustomerChurnDataset.csv: The dataset used for analysis and model training.
-- ChurnPulse.twbx: Tableau workbook for visualization of the project findings.
+- ChurnPulse.twbx: Tableau workbook for visualization of the project findings  and equivalent views built in Power BI.
 
 ## Setup and Installation
 Instructions for setting up and running the project:
